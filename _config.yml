@@ -1,0 +1,10 @@
+
+# Permalink structure
+permalink: /:year/:month/:day/:title
+
+
+# Other configuration options that can be customized using file are:
+#
+# destination: ./_site
+# plugins:     ./_plugins
+# layouts:     ./_layouts

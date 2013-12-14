@@ -1,0 +1,25 @@
+---
+layout: default
+title: Jekyll Base
+---
+
+<!-- Show site posts -->
+<div class="container">
+    {% for post in site.posts %}
+
+        <div class="post">
+	        <div class="page-header">
+		        <h1>{{ post.title }}</h1>
+		    </div>
+		    
+		    <!-- Post content -->
+		    <div class="post-content">{{ post.content }}</div>
+		   	<!-- /post content -->
+		   	
+	    </div>
+
+    {% endfor %}
+
+
+    
+</div>
