@@ -1,8 +1,10 @@
-Jekyll Base
+Jekyll Bootstrap
 ===========
 
-Jekyll base is a starting point to develop a Jekyll site. it was created as help material
-for my blog post on [Hosting Jekyll sites on GitHub](http://pablovallejo.me/hosting-your-site-in-github-using-jekyll/).
+Jekyll Bootstrap is a starting point to develop a Jekyll site which comes with Bootstrap 3 and jQuery. it was created as help material for my blog post on [Hosting Jekyll sites on GitHub](http://pablovallejo.me/hosting-your-site-in-github-using-jekyll/).
+
+
+![Alt text](/images/jekyll-bootstrap.png)
 
 
 ## Quick start
@@ -11,15 +13,15 @@ Download, or clone the repository and run it in you local machine.
 
 ```bash
 # clone the repository
-$ git clone https://github.com/PabloVallejo/jekyll-base.git
+$ git clone https://github.com/PabloVallejo/Jekyll-Bootstrap.git
 
 # run jekyll
-$ cd jekyll-base
-$ jekyll --server
+$ cd Jekill-Bootstrap
+$ jekyll serve
 
 ```
 
-Jekyll base will be available at `http://localhost:4000`.
+Jekyll Bootstrap will be available at `http://localhost:4000`.
 
 ## Uploading the site to GitHub
 Decide whether you want to create a Project Page or a User/organization page.
@@ -36,7 +38,7 @@ $ git checkout -b gh-pages
 
 # paste the base site files, commit and push
 $ git add .
-$ git commit -m "Add Jekyll base files."
+$ git commit -m "Add Jekyll Bootstrap files."
 $ git push origin gh-pages
 ```
 After this, you should be able to access the page at `http://your-username.github.io/your-project-name`. It may take up to 10 minutes to be available.
@@ -49,7 +51,7 @@ in it and push it to GitHub.
 ```bash
 # within the clone of your repository
 $ git add .
-$ git commit -m "Add Jekyll base files."
+$ git commit -m "Add Jekyll Bootstrap files."
 $ git push origin master
 ```
 Contrary to Project Pages, User/Organization pages are available at `http://your-username.github.io`

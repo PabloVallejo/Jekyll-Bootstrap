@@ -1,9 +1,12 @@
-
+#
+# Jekyll Bootstrap: https://github.com/PabloVallejo/Jekyll-Bootstrap
+# Author: Pablo Vallejo https://github.com/PabloVallejo
+#
+#
 # Permalink structure
 permalink: /:year/:month/:day/:title
 
-
-# Other configuration options that can be customized using file are:
+# Other configuration options that can be set using file are:
 #
 # destination: ./_site
 # plugins:     ./_plugins
