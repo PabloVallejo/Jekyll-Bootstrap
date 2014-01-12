@@ -4,7 +4,7 @@ Jekyll Bootstrap
 Jekyll Bootstrap is a starting point to develop a Jekyll site which comes with [Bootstrap 3](http://getbootstrap.com) and [jQuery](http://jquery.com). it was created as help material for my blog post on [Hosting Jekyll sites on GitHub](http://pablovallejo.me/hosting-your-site-in-github-using-jekyll/).
 
 
-![Alt text](/images/jekyll-bootstrap.png)
+![Jekyll Bootstrap](https://raw2.github.com/PabloVallejo/Jekyll-Bootstrap/master/images/jekyll-bootstrap.png)
 
 
 ## Quick start
